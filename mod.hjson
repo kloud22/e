@@ -4,12 +4,12 @@
     minGameVersion: 143,
     version: "135",
     
-    displayName: "hex code sorter",
+    displayName: "a",
     author: "kloud",
-    subtitle:"#fd62ba",
+    subtitle:"#",
     description:
 '''
-adds functionally useless sorters that supports hexcodes.                    
+f                    
 '''
     hideBrowser: false,
     hidden: true,
