@@ -1,7 +1,7 @@
 {
     name: "hex code sorter",
     repo: "kloud22/deitz-nutz",
-    minGameVersion: 143,
+    minGameVersion: 144,
     version: "135",
     
     displayName: "a",
