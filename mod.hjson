@@ -1,0 +1,17 @@
+{
+    name: "hex code sorter",
+    repo: "kloud22/deitz-nutz",
+    minGameVersion: 143,
+    version: "135",
+    
+    displayName: "hex code sorter",
+    author: "kloud",
+    subtitle:"#fd62ba",
+    description:
+'''
+adds functionally useless sorters that supports hexcodes.                    
+'''
+    hideBrowser: false,
+    hidden: true,
+    dependencies: []
+}

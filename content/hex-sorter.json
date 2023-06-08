@@ -1,0 +1,16 @@
+{    
+    "type": "LightBlock",
+    "name": "hex-sorter",
+    "health": 600,
+    "size": 1,
+    "brightness": 0,
+    "radius": 200,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "copper/6"
+    ],
+    "category": "distribution",
+    "research": {
+    
+    }
+}
