@@ -12,6 +12,6 @@
 f                    
 '''
     hideBrowser: false,
-    hidden: true,
+    hidden: false,
     dependencies: []
 }
